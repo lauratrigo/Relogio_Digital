@@ -25,3 +25,5 @@ O principal objetivo deste projeto foi:
 - Exibe a hora, minuto e segundo em tempo real.
 - Atualização automática a cada segundo.
 - Design simples, com um fundo degradê e fontes claras para melhorar a legibilidade.
+
+_créditos: https://www.youtube.com/watch?v=GK0ok3ZCXwM&t=2s_
