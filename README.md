@@ -4,8 +4,8 @@ Este é um projeto simples de **relógio digital** criado com **HTML**, **CSS** 
 
 ## 🚀 Tecnologias Usadas
 
-- **HTML5**
-- **CSS3**
+- **HTML**
+- **CSS**
 - **JavaScript**
 
 ![HTML Badge](https://img.shields.io/badge/HTML-5-orange)
