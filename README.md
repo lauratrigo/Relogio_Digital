@@ -26,6 +26,10 @@ O principal objetivo deste projeto foi:
 - Atualização automática a cada segundo.
 - Design simples, com um fundo degradê e fontes claras para melhorar a legibilidade.
 
+## 📜 Licença
+
+Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
+
 ## 🎥 Créditos
 
 Este projeto foi desenvolvido por Laura Trigo com base no vídeo [Relógio Digital DINÂMICO | HTML, CSS e JS](https://www.youtube.com/watch?v=GK0ok3ZCXwM&t=2s).
